@@ -8,7 +8,7 @@ Scripts de propósitos diferentes são criados em pastas separadas, sendo a nome
 
 - [x] 1. Iniciando
 - [x] 2. Tipos
-- [ ] 3. Variáveis
+- [x] 3. Variáveis
 - [ ] 4. Estruturas de controle
 - [ ] 5. Arrays, fatias e mapas
 - [ ] 6. Funções
