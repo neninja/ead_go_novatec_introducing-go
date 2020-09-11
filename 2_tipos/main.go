@@ -9,6 +9,7 @@ func main() {
 
     // len("string") tamanho da string
     // "string"[1] seleciona segundo caracter da string
+    // deve ser escrita com "" ou ``, a primeira aceita \n e \t
     s := "string"
 
     // uint8 (byte), uint16, uint32, uint64 - inteiros sem sinal
