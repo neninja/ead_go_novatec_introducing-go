@@ -9,7 +9,7 @@ Scripts de propósitos diferentes são criados em pastas separadas, sendo a nome
 - [x] 1. Iniciando
 - [x] 2. Tipos
 - [x] 3. Variáveis
-- [ ] 4. Estruturas de controle
+- [x] 4. Estruturas de controle
 - [ ] 5. Arrays, fatias e mapas
 - [ ] 6. Funções
 - [ ] 7. Estruturas e interfaces
