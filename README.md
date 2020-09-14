@@ -30,11 +30,13 @@ go run folder/main.go
 ## Motivos para estudar Go
 
 - Performance
+- Compilação multiplataforma
+- Tipagem estática com atribuição implícita usando `:=`
 - Muitas ferramentas builtin
-    - Criação de executáveis multiplataforma
     - Teste
     - Documentação
     - Formatação
+    - Package manager
 
 ### Sites úteis
 
