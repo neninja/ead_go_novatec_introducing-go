@@ -11,7 +11,7 @@ Scripts de propósitos diferentes são criados em pastas separadas, sendo a nome
 - [x] 3. Variáveis
 - [x] 4. Estruturas de controle
 - [x] 5. Arrays, fatias e mapas
-- [ ] 6. Funções
+- [x] 6. Funções
 - [ ] 7. Estruturas e interfaces
 - [ ] 8. Pacotes
 - [ ] 9. Testes
@@ -35,3 +35,9 @@ go run folder/main.go
     - Teste
     - Documentação
     - Formatação
+
+### Sites úteis
+
+- [Go por exemplo](http://goporexemplo.golangbr.org/)
+- [GoDoc](https://golang.org/doc/)
+- [Your basic](https://yourbasic.org/golang/)
