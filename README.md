@@ -12,7 +12,7 @@ Scripts de propósitos diferentes são criados em pastas separadas, sendo a nome
 - [x] 4. Estruturas de controle
 - [x] 5. Arrays, fatias e mapas
 - [x] 6. Funções
-- [ ] 7. Estruturas e interfaces
+- [x] 7. Estruturas e interfaces
 - [ ] 8. Pacotes
 - [ ] 9. Testes
 - [ ] 10. Concorrência
