@@ -25,6 +25,10 @@ go run folder/main.go
 # ou
 # cd folder
 # go run .
+
+# vim
+#:so .exrc
+#<leader>r
 ```
 
 ## Motivos para estudar Go
