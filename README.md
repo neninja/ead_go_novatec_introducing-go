@@ -13,7 +13,7 @@ Scripts de propósitos diferentes são criados em pastas separadas, sendo a nome
 - [x] 5. Arrays, fatias e mapas
 - [x] 6. Funções
 - [x] 7. Estruturas e interfaces
-- [ ] 8. Pacotes
+- [x] 8. Pacotes
 - [ ] 9. Testes
 - [ ] 10. Concorrência
 
@@ -29,6 +29,9 @@ go run folder/main.go
 # vim
 #:so .exrc
 #<leader>r
+
+# documentação do go
+godoc -http=:6060
 ```
 
 ## Motivos para estudar Go
@@ -47,3 +50,12 @@ go run folder/main.go
 - [Go por exemplo](http://goporexemplo.golangbr.org/)
 - [GoDoc](https://golang.org/doc/)
 - [Your basic](https://yourbasic.org/golang/)
+
+## Go get
+
+Programas úteis para baixar com go:
+
+```sh
+go get golang.org/x/tools/cmd/godoc
+go get golang.org/x/tools/cmd/goimports
+```
