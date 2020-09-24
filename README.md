@@ -14,7 +14,7 @@ Scripts de propósitos diferentes são criados em pastas separadas, sendo a nome
 - [x] 6. Funções
 - [x] 7. Estruturas e interfaces
 - [x] 8. Pacotes
-- [ ] 9. Testes
+- [x] 9. Testes
 - [ ] 10. Concorrência
 
 ## Run
