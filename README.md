@@ -1,6 +1,6 @@
 # ead_go_novatec_introducing-go
 
-Leitura do livro *Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis* da Novatec.
+Leitura do livro *Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis* da Novatec, escrito pelo [Caleb Doxsey](https://github.com/calebdoxsey).
 
 Scripts de propósitos diferentes são criados em pastas separadas, sendo a nomenclatura: `capítulo_nome-sugestivo`
 
